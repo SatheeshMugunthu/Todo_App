@@ -44,7 +44,7 @@ class ListTodosComponent extends Component {
                     <h3> Todos  </h3>
                     <br/>
                     <table className="table caption-top">
-                        {/* <thead>
+                        <thead>
                              <tr>
                                  <th> Id </th>     
                                 <th> Description </th>
@@ -53,7 +53,7 @@ class ListTodosComponent extends Component {
                                 <th> Update </th>
                                 <th> Delete </th>
                             </tr> 
-                        </thead> */}
+                        </thead>
                         <tbody>
                             {
                                 this.state.todos.map(
