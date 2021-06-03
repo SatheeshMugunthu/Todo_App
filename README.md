@@ -9,3 +9,4 @@ Todo application that maintains user todos. This application was developed using
 
 ![image](https://user-images.githubusercontent.com/4611827/120640830-8de71b00-c490-11eb-80ea-fea2dfc0e645.png)
 
+![image](https://user-images.githubusercontent.com/4611827/120641482-4614c380-c491-11eb-90f1-8c43a6d61025.png)
