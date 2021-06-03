@@ -1,2 +1,2 @@
 # Todo_App
-Todo application
+Todo application that maintains user todos
