@@ -42,9 +42,6 @@ class LoginComponent extends Component {
                                 <InputGroup>
                                     <Form.Control type="text" placeholder="Username" name="username" value={this.state.username} 
                                     onChange={this.handleChange} />
-                                    {/* <InputGroup.Append>
-                                        <InputGroup.Text id="basic-addon2"> ✉️ </InputGroup.Text>
-                                    </InputGroup.Append> */}
                                 </InputGroup>
                             </Col>
                         </Form.Group>
@@ -66,7 +63,6 @@ class LoginComponent extends Component {
                     </Form>
                 </div>
                 <br />
-                <Link> Forgot Password ?</Link>
             </div>
         )
     }
