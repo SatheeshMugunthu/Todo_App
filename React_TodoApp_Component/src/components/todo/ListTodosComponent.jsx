@@ -45,8 +45,7 @@ class ListTodosComponent extends Component {
                     <br/>
                     <table className="table caption-top">
                         <thead>
-                             <tr>
-                                 <th> Id </th>     
+                             <tr>  
                                 <th> Description </th>
                                 <th> Is Completed ?</th>
                                 <th> Target Date </th>
